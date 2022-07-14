@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Md Tauseef Akhtar(mdtauseef123)
-- 👀 I’m interested in learning Data Structure And Algorithm.
-- 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on ...
+- 👀 C|C++|Java|Python|HTML|CSS|Javascript
+- 🌱 Python Development|Problem Solving| Web Development
+- 💞️ A Student.
 - 📫 You can reach me at mohammadtauseef284@gmail.com
 
 <!---
