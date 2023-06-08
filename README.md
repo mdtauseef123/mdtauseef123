@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Md Tauseef Akhtar(mdtauseef123)
-- 👀 C|C++|Java|Python|HTML|CSS|Javascript
-- 🌱 Python Development|Problem Solving| Web Development
+- 👀 C|C++|Java|Flutter|Dart|React.js|MongoDB|Express.js|Node.js
+- 🌱 Problem Solving|Web Development|Mobile App Development
 - 💞️ A Student.
 - 📫 You can reach me at mohammadtauseef284@gmail.com
 
